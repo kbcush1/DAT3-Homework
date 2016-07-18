@@ -24,8 +24,8 @@
     * `grep -ic 'chicken burrito.*pinto beans' chipotle.tsv`
         *  *output = 105*
 6. List of CSV or TSV files in **DS-SEA-3** repo (all located in the **data** subdirectory):
-* `cd .. DS-SEA-3`
-* `find . -name *.?sv`
+   * `cd .. DS-SEA-3`
+   * `find . -name *.?sv`
     *   Airline_on_time_west_coast.csv
     *   airlines.csv
     *   bank-additional.csv
